@@ -9,10 +9,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 I recently completed my B.Sc. (Hons) in Computer Science and Engineering  with a CGPA of 3.64 / 4.00.
-- 🔭 I’m currently learning Django, Data Science, and Machine Learning.
+- 🔭 I’m currently learning  Data Science, and Machine Learning.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about Python, Web Development, and Machine Learning.
-- 📫 How to reach me: rakibxdev@proton.me, [Telegram](https://t.me/rakibxdev)
 - ⚡ Fun fact: I enjoy watching anime in my free time and am interested in reverse engineering.
 
 ### 🛠️ Skills
